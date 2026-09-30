@@ -1,15 +1,15 @@
 {
-  "auto-title": 514,
+  "auto-title": 515,
   "balance-meter": 215,
-  "claude-ip-check": 84,
-  "composer-rainbow-border": 468,
-  "engine-hopper": 177,
-  "model-switcher": 607,
+  "claude-ip-check": 85,
+  "composer-rainbow-border": 469,
+  "engine-hopper": 180,
+  "model-switcher": 610,
   "react-doctor": 294,
-  "service-status": 106,
+  "service-status": 107,
   "session-notes": 83,
   "session-rainbow-border": 20,
-  "token-meter": 468,
-  "window-model-assistant": 85,
+  "token-meter": 469,
+  "window-model-assistant": 86,
   "wsl": 163
 }
