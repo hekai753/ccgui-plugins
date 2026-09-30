@@ -2,7 +2,7 @@
   "id": "port-manager",
   "repo": "hekai753/port-manager",
   "tier": "js",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "sdkVersion": ">=0.3.12",
   "permissions": [
     "ui:center-tab",
@@ -10,6 +10,7 @@
     "ui:command",
     "storage",
     "exec:uname",
+    "exec:git",
     "exec:lsof",
     "exec:ss",
     "exec:open",
@@ -21,7 +22,7 @@
     "exec:cmd"
   ],
   "sha256": {
-    "main.js": "4dd7beed3a4e388bdec44251c3b39457a5a7f4b187d62f25dced3c40bc49e41f",
-    "manifest.json": "5021e4c009540e7f02d43e5c33ca7f45c39fb820b69b278c748727e7a2e04f6e"
+    "main.js": "cb9714edf2cb5372c07cdc3865b5f1eca91189d363950bed1fa51ee5d6446fb0",
+    "manifest.json": "f675688801c0fa1ef35a8c6579e68f7cef6b11d708185543d1a63707067d4032"
   }
 }
