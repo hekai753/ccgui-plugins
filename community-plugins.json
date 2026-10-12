@@ -119,6 +119,13 @@
     "author": "wszbest68-gif"
   },
   {
+    "id": "session-overview",
+    "repo": "hekai753/ccgui-plugin-session-overview",
+    "name": "会话总览",
+    "description": "跨项目统一查看会话状态：需确认 / 进行中 / 未查看 / 已完成，按紧急度排序的关注列表，中央页签与右侧面板双入口，显示最后问答预览，点击直达对应对话。支持 Claude Code 与 Codex。",
+    "author": "hekai753"
+  },
+  {
     "id": "session-rainbow-border",
     "repo": "zsw118-sw/ccgui-plugin-session-rainbow-border",
     "name": "工作区对话跑马灯",

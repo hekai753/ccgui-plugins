@@ -1,0 +1,31 @@
+{
+  "id": "session-overview",
+  "repo": "hekai753/ccgui-plugin-session-overview",
+  "tier": "js",
+  "version": "0.1.0",
+  "minAppVersion": "1.1.3",
+  "sdkVersion": ">=0.3.12",
+  "permissions": [
+    "ui:center-tab",
+    "ui:panel-tab",
+    "ui:sidebar-entry",
+    "ui:status-bar",
+    "ui:command",
+    "theme",
+    "host:session",
+    "exec:python3",
+    "storage",
+    "session.lifecycle.read",
+    "runtime.events.read",
+    "runtime.switch.observe",
+    "prompt.contribute.internal"
+  ],
+  "sha256": {
+    "main.js": "3f6da048b5f4f35a6f6b5bdb3db83c640b0aebc38d7b817c64a008b843a76b5a",
+    "manifest.json": "5a55b045dd53307a9b331338b1b5cc340cfa716011cd621b5a2a760becdbda3e"
+  },
+  "icon": "docs/icon.png",
+  "screenshots": [
+    "docs/screenshot.png"
+  ]
+}
