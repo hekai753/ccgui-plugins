@@ -2,7 +2,7 @@
   "id": "session-overview",
   "repo": "hekai753/ccgui-plugin-session-overview",
   "tier": "js",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "minAppVersion": "1.1.3",
   "sdkVersion": ">=0.3.12",
   "permissions": [
@@ -21,8 +21,8 @@
     "prompt.contribute.internal"
   ],
   "sha256": {
-    "main.js": "bfa3140791d688124e6a5599052ca802739636c7e4ae20cec8899e1df88cb49b",
-    "manifest.json": "e019e9fcb706584e896106fa3e26c8a7ce6d1cbab46f91e9d0f6564e64976301"
+    "main.js": "6897c6b6227d2c1f2093e94fe2bf73a640f50786671b3f3e01e61205ff465f55",
+    "manifest.json": "1d82db0d76eae77c7430a8841485641a3bbcd1ca68ad5dba99877a657c424e82"
   },
   "icon": "docs/icon.png",
   "screenshots": [
